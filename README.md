@@ -1,1 +1,2 @@
-My first readme
+First coding is so fun!
+Keep it ALX
